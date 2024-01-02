@@ -1,3 +1,4 @@
+![coding alone](https://github.com/David-Sang96/David-Sang96/blob/main/Untitled.png)
 <h1 align="center">Hi 👋, I'm David Nawl Sang Luai</h1>
 <h3 align="center">Web Developer</h3>
 
