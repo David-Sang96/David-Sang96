@@ -1,6 +1,6 @@
 ![tech world](https://github.com/David-Sang96/David-Sang96/blob/main/photo_2024-01-03_13-14-44.jpg)
 <h1 align="center">Hi 👋, I'm David Nawl Sang Luai</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **React and Backend tools**
 
