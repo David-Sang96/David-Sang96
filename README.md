@@ -1,6 +1,6 @@
 # Welcome To My Profile ,Let's collaborate!
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on MERN<br>🌱 I’m currently learning MERN<br>💬 Ask me about MERN<br>⚡ Fun fact I’ve never smoked or drank alcohol.
+🔭 I’m currently working on MERN<br>💬 Ask me about MERN<br>⚡ Fun fact I’ve never smoked or drank alcohol.
 
 
 ## 🌐 Socials:
