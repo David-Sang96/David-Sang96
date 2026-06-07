@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm David
 
-- 🔭 I'm currently working on Next.js
-- 🌱 I'm currently learning AI-assisted development with Vibe Code Tours
+- 🌱 Currently learning AI-assisted development with Vibe Code Tours
 - 💻 Frontend Developer based in Malaysia 🇲🇾
-- ⚡ Fun fact: I use Ubuntu exclusively on my Acer Nitro
+- 🚀 Exploring AI coding tools like Claude Code
+- ⚡ Fun fact: Linux enthusiast running Ubuntu
